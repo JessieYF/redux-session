@@ -1,3 +1,5 @@
 test 01
 step 2 master
 will squash
+05 will rebase 01
+step 03: will rebase after squash
