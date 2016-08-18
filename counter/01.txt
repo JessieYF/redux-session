@@ -2,3 +2,4 @@ test 01
 step 2 master
 step 02: 04 will merge 01
 will squash
+step 03: will merge 01 after squash
